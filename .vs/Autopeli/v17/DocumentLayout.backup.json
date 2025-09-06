@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukar\\Downloads\\autopeli (13.3.24)\\Autopeli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC23B4B-CF0B-424B-9FAC-C5270D876D73}|Autopeli\\Autopeli.csproj|c:\\users\\lukar\\downloads\\autopeli (13.3.24)\\autopeli\\autopeli\\autopeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC23B4B-CF0B-424B-9FAC-C5270D876D73}|Autopeli\\Autopeli.csproj|solutionrelative:autopeli\\autopeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC23B4B-CF0B-424B-9FAC-C5270D876D73}|Autopeli\\Autopeli.csproj|c:\\users\\lukar\\downloads\\autopeli (13.3.24)\\autopeli\\autopeli\\content\\kartta.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DC23B4B-CF0B-424B-9FAC-C5270D876D73}|Autopeli\\Autopeli.csproj|solutionrelative:autopeli\\content\\kartta.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autopeli.cs",
+              "DocumentMoniker": "C:\\Users\\lukar\\Downloads\\autopeli (13.3.24)\\Autopeli\\Autopeli\\Autopeli.cs",
+              "RelativeDocumentMoniker": "Autopeli\\Autopeli.cs",
+              "ToolTip": "C:\\Users\\lukar\\Downloads\\autopeli (13.3.24)\\Autopeli\\Autopeli\\Autopeli.cs",
+              "RelativeToolTip": "Autopeli\\Autopeli.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAowIUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:45:59.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kartta.txt",
+              "DocumentMoniker": "C:\\Users\\lukar\\Downloads\\autopeli (13.3.24)\\Autopeli\\Autopeli\\Content\\kartta.txt",
+              "RelativeDocumentMoniker": "Autopeli\\Content\\kartta.txt",
+              "ToolTip": "C:\\Users\\lukar\\Downloads\\autopeli (13.3.24)\\Autopeli\\Autopeli\\Content\\kartta.txt",
+              "RelativeToolTip": "Autopeli\\Content\\kartta.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-19T13:45:59.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
